@@ -1,0 +1,3 @@
+kind: Kustomization
+resources:
+  - pvc_test-image.yaml
